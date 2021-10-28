@@ -1,0 +1,10 @@
+Nama =str("Rifky Al Fares")
+Umur =str("20")
+Panggilan =str("Rifky")
+Nim =str("312110477")
+TempatLahir =str("Bekasi")
+Alamat =str("Jl.Kelinci 3,Kaliabang Tengah, Bekasi")
+Telepon =str("089674940321")
+
+print("Assalamu'alaikum")
+print("Let me introduce my self.my name is",Nama,",but you can call me",Panggilan,"")
